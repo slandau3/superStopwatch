@@ -1,7 +1,7 @@
 import time
 import os
 #! python 3
-# stopwatch.py - a simple stopwatch program.
+# superStopwatchProject.py - a simple stopwatch program.
 
 #Display the program's instructiosn.
 print('Press ENTER to begin. Afterwards, press ENTER to "click" the stopwatch. Press Ctrl-C to quit.')
